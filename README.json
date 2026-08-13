@@ -1,0 +1,210 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Smart Home sample",
+          "description": "A sample of the Smart Home device control APIs in Actions on Google.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-20T22:57:15Z",
+            "owner": "google-home",
+            "repo": "smart-home-nodejs",
+            "stars": 905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facts about Google (Node.js)",
+          "description": "(Java) - Custom Entities, Contexts, and Deep Links sample (using Dialogflow).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-10-17T21:30:19Z",
+            "owner": "actions-on-google",
+            "repo": "dialogflow-facts-about-google-nodejs",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Number Genie (Node.js)",
+          "description": "(Java) - Localization sample.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-13T17:03:09Z",
+            "owner": "actions-on-google",
+            "repo": "dialogflow-number-genie-nodejs",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Say Number (Node.js)",
+          "description": "(Java) - Say a number Actions SDK sample for Actions on Google.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-13T17:03:48Z",
+            "owner": "actions-on-google",
+            "repo": "actionssdk-say-number-nodejs",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Name Psychic (Node.js)",
+          "description": "(Java) - Permissions and Google Maps Static API sample (using Dialogflow).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-10-17T21:19:49Z",
+            "owner": "actions-on-google",
+            "repo": "dialogflow-name-psychic-nodejs",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silly Name Maker (Node.js)",
+          "description": "(Java) - Parameters sample (using Dialogflow).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-10-17T23:40:16Z",
+            "owner": "actions-on-google",
+            "repo": "dialogflow-silly-name-maker-webhook-nodejs",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Canvas Quiz",
+          "description": "It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-31T21:34:54Z",
+            "owner": "googlecreativelab",
+            "repo": "aog-canvas-quiz",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Pet",
+          "description": "It is built with interactive canvas. In this game, you will adopt and take care of a hamster just like you would in real life, except through Google Assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-12-10T23:58:21Z",
+            "owner": "actions-on-google-labs",
+            "repo": "virtual-pet-game-nodejs",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Canvas editor",
+          "description": "Editor to create a web app for Interactive Canvas that is immediately loaded onto a smart display device. This allows for quick prototyping of web apps for Interactive Canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-12-19T18:52:37Z",
+            "owner": "actions-on-google-labs",
+            "repo": "interactive-canvas-editor-nodejs",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDG Action",
+          "description": "This sample demonstrates Actions on Google features for use on Google Assistant including localization (i18n-node), conversation design, rich responses, and API integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-13T17:03:55Z",
+            "owner": "actions-on-google",
+            "repo": "dialogflow-gdg-nodejs",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "karaoke",
+          "description": "Amanda Cavallaro - Conversational App to buid your own karaoke using GCP, YouTube API and Actions on Google.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-06-07T08:42:43Z",
+            "owner": "amdcavallaro",
+            "repo": "karaoke",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDPU Scheduler",
+          "description": "It's a Google Assistant action for PDPU that tells you about which classes and labs you have today.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-24T09:03:36Z",
+            "owner": "nish17",
+            "repo": "scheduler",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spellcast",
+          "description": "Experimental Interactive Canvas game for the Google Assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-11-07T21:38:23Z",
+            "owner": "actions-on-google-labs",
+            "repo": "dialogflow-spellcast-nodejs",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Open source code"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:37:33.605Z",
+    "original_repository": "ravirupareliya/awesome-actions-on-google",
+    "original_repository_sha": "a4c0c72c6d5b385cebc56c17b759165d00d2d045",
+    "enhanced_repository": "enhansome/enhansome-actions-on-google",
+    "enhanced_repository_description": null,
+    "title": "Awesome Actions on Google with stars"
+  }
+}
