@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91604136,
             "language": "TypeScript",
             "last_commit": "2026-06-20T22:57:15Z",
             "owner": "google-home",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75954126,
             "language": "JavaScript",
             "last_commit": "2019-10-17T21:30:19Z",
             "owner": "actions-on-google",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75952195,
             "language": "JavaScript",
             "last_commit": "2022-06-13T17:03:09Z",
             "owner": "actions-on-google",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75952469,
             "language": "JavaScript",
             "last_commit": "2022-06-13T17:03:48Z",
             "owner": "actions-on-google",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75954275,
             "language": "JavaScript",
             "last_commit": "2019-10-17T21:19:49Z",
             "owner": "actions-on-google",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75953979,
             "language": "JavaScript",
             "last_commit": "2019-10-17T23:40:16Z",
             "owner": "actions-on-google",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 207825894,
             "language": "JavaScript",
             "last_commit": "2023-01-31T21:34:54Z",
             "owner": "googlecreativelab",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 227238007,
             "language": "JavaScript",
             "last_commit": "2019-12-10T23:58:21Z",
             "owner": "actions-on-google-labs",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 229116648,
             "language": "JavaScript",
             "last_commit": "2019-12-19T18:52:37Z",
             "owner": "actions-on-google-labs",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 176378115,
             "language": "JavaScript",
             "last_commit": "2022-06-13T17:03:55Z",
             "owner": "actions-on-google",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181376524,
             "language": "HTML",
             "last_commit": "2019-06-07T08:42:43Z",
             "owner": "amdcavallaro",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141154526,
             "language": "JavaScript",
             "last_commit": "2019-03-24T09:03:36Z",
             "owner": "nish17",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 220290502,
             "language": "JavaScript",
             "last_commit": "2019-11-07T21:38:23Z",
             "owner": "actions-on-google-labs",
@@ -187,21 +200,12 @@
         }
       ],
       "title": "Open source code"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:01:20.457Z",
+    "last_updated": "2026-08-19T12:14:55.312Z",
     "original_repository": "ravirupareliya/awesome-actions-on-google",
+    "original_repository_id": 202122968,
     "original_repository_sha": "a4c0c72c6d5b385cebc56c17b759165d00d2d045",
     "enhanced_repository": "enhansome/enhansome-actions-on-google",
     "enhanced_repository_description": null,
