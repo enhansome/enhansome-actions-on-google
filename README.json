@@ -203,9 +203,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:09:39.452Z",
-    "original_repository": "ravirupareliya/awesome-actions-on-google",
-    "original_repository_id": 202122968,
+    "last_updated": "2026-08-27T11:18:08.318Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 202122968,
+      "language": null,
+      "last_commit": "2020-10-31T16:47:09Z",
+      "owner": "ravirupareliya",
+      "repo": "awesome-actions-on-google",
+      "stars": 114
+    },
     "original_repository_sha": "a4c0c72c6d5b385cebc56c17b759165d00d2d045",
     "enhanced_repository": "enhansome/enhansome-actions-on-google",
     "enhanced_repository_description": null,
