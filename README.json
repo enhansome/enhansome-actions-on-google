@@ -16,7 +16,8 @@
             "owner": "google-home",
             "repo": "smart-home-nodejs",
             "stars": 905
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "actions-on-google",
             "repo": "dialogflow-facts-about-google-nodejs",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "actions-on-google",
             "repo": "dialogflow-number-genie-nodejs",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "actions-on-google",
             "repo": "actionssdk-say-number-nodejs",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "actions-on-google",
             "repo": "dialogflow-name-psychic-nodejs",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "actions-on-google",
             "repo": "dialogflow-silly-name-maker-webhook-nodejs",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "googlecreativelab",
             "repo": "aog-canvas-quiz",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "actions-on-google-labs",
             "repo": "virtual-pet-game-nodejs",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "actions-on-google-labs",
             "repo": "interactive-canvas-editor-nodejs",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "actions-on-google",
             "repo": "dialogflow-gdg-nodejs",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "amdcavallaro",
             "repo": "karaoke",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "nish17",
             "repo": "scheduler",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         },
         {
           "node_type": "item",
@@ -196,14 +208,15 @@
             "owner": "actions-on-google-labs",
             "repo": "dialogflow-spellcast-nodejs",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:10:10.587Z"
         }
       ],
       "title": "Open source code"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:37:33.201Z",
+    "last_updated": "2026-08-28T14:10:10.587Z",
     "original_repository_info": {
       "archived": false,
       "id": 202122968,
