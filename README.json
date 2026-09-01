@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:23:58.179Z",
+    "last_updated": "2026-09-01T07:31:45.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of useful things regarding Actions on Google.",
@@ -316,7 +316,7 @@
       "open_issues": 2,
       "owner": "ravirupareliya",
       "repo": "awesome-actions-on-google",
-      "stars": 114,
+      "stars": 115,
       "topics": [
         "actions-on-google",
         "actions-on-google-nodejs",
