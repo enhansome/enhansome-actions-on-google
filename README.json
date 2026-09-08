@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "actions-on-google",
             "repo": "dialogflow-number-genie-nodejs",
-            "stars": 86,
+            "stars": 85,
             "topics": [
               "actions-on-google-nodejs"
             ]
@@ -126,7 +126,7 @@
             "open_issues": 0,
             "owner": "actions-on-google",
             "repo": "dialogflow-silly-name-maker-webhook-nodejs",
-            "stars": 47,
+            "stars": 46,
             "topics": [
               "add-to-dialogflow"
             ]
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:09:53.374Z",
+    "last_updated": "2026-09-08T07:04:30.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of useful things regarding Actions on Google.",
