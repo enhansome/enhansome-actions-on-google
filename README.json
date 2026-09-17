@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "google-home",
             "repo": "smart-home-nodejs",
-            "stars": 905,
+            "stars": 906,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:10.587Z"
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:26:36.394Z",
+    "last_updated": "2026-09-17T07:23:59.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of useful things regarding Actions on Google.",

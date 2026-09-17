@@ -76,7 +76,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 
 ## Open source code
 
-* [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs) ⭐ 905 | 🐛 54 | 🌐 TypeScript | 📅 2026-06-20 - A sample of the Smart Home device control APIs in Actions on Google.
+* [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs) ⭐ 906 | 🐛 54 | 🌐 TypeScript | 📅 2026-06-20 - A sample of the Smart Home device control APIs in Actions on Google.
 * Facts about Google [(Node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) ⚠️ Archived [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) ⚠️ Archived - Custom Entities, Contexts, and Deep Links sample (using Dialogflow).
 * Number Genie [(Node.js)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) ⚠️ Archived [(Java)](https://github.com/actions-on-google/dialogflow-number-genie-java) ⚠️ Archived - Localization sample.
 * Say Number [(Node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) ⚠️ Archived [(Java)](https://github.com/actions-on-google/actionssdk-say-number-java) ⚠️ Archived - Say a number Actions SDK sample for Actions on Google.
@@ -123,4 +123,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
